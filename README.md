@@ -76,20 +76,6 @@ The test suite covers:
 ## 🐳 Docker-Based Execution
 
 This project includes a fully functional Docker environment to ensure evaluators can run the full test suite without installing dependencies.
- ## Project Structure
-project-root/
-│
-├── contracts/
-│   └── NftCollection.sol        # Main ERC-721 NFT contract
-│
-├── test/
-│   └── NftCollection.test.js    # Automated test suite
-│
-├── hardhat.config.js
-├── package.json
-├── Dockerfile
-├── .dockerignore
-└── README.md
 
 ## 👨‍💻 Author
 **Sravani Punnam**  
